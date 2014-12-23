@@ -1,0 +1,84 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1E2D-3AE9
+
+ Directory of C:\
+--rr
+2013-09-28  10:49    <DIR>          2013_09
+--tt
+2014-12-18  22:00    <DIR>          allegro
+2014-12-07  15:14    <DIR>          angielski
+2014-12-03  10:32    <DIR>          audiobooks
+2014-10-27  21:07    <DIR>          awscli-bundle
+2012-12-16  00:00    <DIR>          bestplayer
+2014-12-03  10:30    <DIR>          books
+2012-10-11  09:30    <DIR>          CANape11.0.10Rev39529SP1
+2012-11-25  21:09    <DIR>          CANoeCANalyzer80
+2013-10-05  18:58    <DIR>          data
+2014-12-23  12:35    <DIR>          downloads
+2014-10-09  17:05    <DIR>          driver
+2014-01-04  18:48    <DIR>          driverVideoDVR
+2014-04-25  16:51    <DIR>          eclipse
+2007-11-07  07:00            17ÿ734 eula.1028.txt
+2007-11-07  07:00            17ÿ734 eula.1031.txt
+2007-11-07  07:00            10ÿ134 eula.1033.txt
+2007-11-07  07:00            17ÿ734 eula.1036.txt
+2007-11-07  07:00            17ÿ734 eula.1040.txt
+2007-11-07  07:00               118 eula.1041.txt
+2007-11-07  07:00            17ÿ734 eula.1042.txt
+2007-11-07  07:00            17ÿ734 eula.2052.txt
+2007-11-07  07:00            17ÿ734 eula.3082.txt
+2014-12-19  09:16    <DIR>          foto
+2014-12-23  14:36    <DIR>          gittest
+2007-11-07  07:00             1ÿ110 globdata.ini
+2014-09-09  23:24    <DIR>          Hlthpnt
+2014-03-15  10:06           130ÿ079 HPFWUpdate.log
+2013-10-05  16:40    <DIR>          iibi2100
+2013-01-23  21:45    <DIR>          instalki
+2007-11-07  07:00               843 install.ini
+2014-09-22  08:54             9ÿ043 install.log
+2007-11-07  07:03            76ÿ304 install.res.1028.dll
+2007-11-07  07:03            96ÿ272 install.res.1031.dll
+2007-11-07  07:03            91ÿ152 install.res.1033.dll
+2007-11-07  07:03            97ÿ296 install.res.1036.dll
+2007-11-07  07:03            95ÿ248 install.res.1040.dll
+2007-11-07  07:03            81ÿ424 install.res.1041.dll
+2007-11-07  07:03            79ÿ888 install.res.1042.dll
+2007-11-07  07:03            75ÿ792 install.res.2052.dll
+2007-11-07  07:03            96ÿ272 install.res.3082.dll
+2014-11-13  17:08    <DIR>          json
+2014-02-28  19:22    <DIR>          Lianja
+2014-03-15  10:12    <DIR>          LJP1100_P1560_P1600_Full_Solution
+2014-03-15  09:50    <DIR>          LJP1100_P1560_P1600_SI_Utility
+2014-12-01  08:04    <DIR>          lua
+2014-10-09  07:30    <DIR>          moje
+2013-09-03  19:30    <DIR>          mp3
+2014-02-17  22:56    <DIR>          OpenSSL-Win64
+2014-01-31  17:34    <DIR>          processExplor
+2014-12-08  18:04    <DIR>          Program Files
+2014-12-14  12:42    <DIR>          Program Files (x86)
+2013-02-20  19:42    <DIR>          programy
+2013-12-14  13:28    <DIR>          proj_django
+2014-02-17  20:37    <DIR>          Python27
+2013-09-05  18:17    <DIR>          Python27x86
+2012-11-18  12:21    <DIR>          Python33
+2014-12-03  09:47    <DIR>          Qt
+2013-02-18  11:22                 0 Recovery.txt
+2014-05-08  11:35    <DIR>          screenshots
+2014-02-16  19:58    <DIR>          share
+2014-06-06  20:40    <DIR>          sikuli
+2014-10-17  04:59    <DIR>          sqllite
+2014-03-22  11:51    <DIR>          tablica
+2014-12-23  09:09    <DIR>          Temp
+2014-12-23  09:09    <DIR>          tmppp
+2013-04-27  20:57    <DIR>          tomtom
+2014-08-24  16:13    <DIR>          totalcmd
+2014-01-01  16:56    <DIR>          Users
+2014-12-01  07:47    <DIR>          utils
+2007-11-07  07:00             5ÿ686 vcredist.bmp
+2007-11-07  07:50         1ÿ927ÿ956 VC_RED.cab
+2013-03-11  20:26    <DIR>          vector
+2013-11-22  22:25        27ÿ820ÿ032 webtest.db3
+2014-12-23  13:55    <DIR>          Windows
+2014-10-27  19:44    <DIR>          ZeroBraneStudio
+              26 File(s)     30ÿ818ÿ787 bytes
+              50 Dir(s)  1ÿ260ÿ427ÿ264ÿ000 bytes free

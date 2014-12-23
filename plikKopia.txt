@@ -8,3 +8,5 @@
 2014-12-18  22:00    <DIR>          allegro
 bumbum
 2014-12-07  15:14    <DIR>          angielski
+
+ssh

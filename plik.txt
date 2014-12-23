@@ -2,8 +2,9 @@
  Volume Serial Number is 1E2D-3AE9
 
  Directory of C:\
-
+--rr
 2013-09-28  10:49    <DIR>          2013_09
+--tt
 2014-12-18  22:00    <DIR>          allegro
 2014-12-07  15:14    <DIR>          angielski
 2014-12-03  10:32    <DIR>          audiobooks
